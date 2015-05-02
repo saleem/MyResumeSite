@@ -1,0 +1,74 @@
+body {
+    background: url('Skillcrush_Brooklyn_Bridge.jpg');
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    color: #252525;}
+	h2 {
+    background: none repeat scroll 0px 0px #CFC6C2;
+    border-bottom-left-radius: 5px;
+    color: #FFF;
+    font-family: "Montserrat",sans-serif;
+    font-size: 1.4em;
+    font-weight: lighter;
+    letter-spacing: 1.25px;
+    margin: 15px 0px;
+    padding: 10px;
+}
+#side-container-div {
+    float: right;
+    height: 70%;
+    margin: 25px 10px 25px 0px;
+    position: relative;
+    width: 30%;
+    z-index: 3;
+}
+#side-panel-div {
+    background: none repeat scroll 0px 0px rgba(255, 255, 255, 0.9);
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    float: right;
+    height: 495px;
+    margin-top: 40px;
+    padding: 5px 0px 10px 20px;
+    width: 380px;
+	border-bottom-right-radius: 5px;
+border-top-right-radius: 5px;
+}
+p {
+    color: #2F332F;
+    font-family: "Indie Flower",cursive;
+    font-size: 1em;
+    line-height: 150%;
+    padding: 10px 40px 0px 7px;
+}
+#navlist {
+    position: relative;
+}
+#navlist li, #navlist a {
+    display: block;
+}
+#navlist li {
+    display: block;
+    float: left;
+    height: 31px;
+    margin: 10px 0px 0px;
+    overflow: hidden;
+    text-indent: 100%;
+    white-space: nowrap;
+    width: 32px;
+}
+#twitter {
+    background: url("http://skillcrush.com/static/resume-two/images/social.png") repeat scroll -32px 0px transparent;
+    left: 0px;
+    width: 32px;
+	padding: 0px;
+border: 0px none;
+font: inherit;
+vertical-align: baseline;
+}
+#navlist li {
+    text-indent: 100%;
+    white-space: nowrap;
+}
+	
